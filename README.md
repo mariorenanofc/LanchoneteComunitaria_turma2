@@ -21,7 +21,7 @@ Bem-vindos ao nosso projeto colaborativo de programação! Vamos construir um si
 - **Importante:** Converta a entrada do `prompt` para um número usando `Number()`.
 - **Desafio Extra:** Adicione uma validação básica para garantir que o usuário digite apenas números positivos para os preços. Se não for um número válido, peça novamente.
 
-### **Grupo 2: Módulo de Estrutura do Pedido e Boas-Vindas**
+### **Grupo 2: Módulo de Estrutura do Pedido e Boas-Vindas** - Concluído ✅
 **Arquivo para trabalhar:** `grupo2_modulo2.js`
 **Objetivo:** Gerenciar o fluxo principal do programa e a interação inicial com o cliente.
 **Tarefas:**

@@ -4,7 +4,7 @@ Bem-vindos ao nosso desafio de programação em JavaScript! Neste mini-projeto, 
 
 Este projeto foi desenhado para consolidar seus conhecimentos em:
 * Variáveis e Tipos de Dados
-* [cite_start]Estruturas de Repetição (`for`) [cite: 3, 9, 12, 15]
+* [cite_start]Estruturas de Repetição (`for`)
 * Estruturas Condicionais (`if`, `else if`, `else`)
 * Interação com o Usuário (`alert`, `prompt`)
 * Manipulação de Strings

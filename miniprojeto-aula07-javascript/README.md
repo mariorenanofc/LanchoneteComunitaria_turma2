@@ -4,7 +4,7 @@ Bem-vindos ao nosso desafio de programação em JavaScript! Neste mini-projeto, 
 
 Este projeto foi desenhado para consolidar seus conhecimentos em:
 * Variáveis e Tipos de Dados
-* [cite_start]Estruturas de Repetição (`for`)
+* Estruturas de Repetição (`for`)
 * Estruturas Condicionais (`if`, `else if`, `else`)
 * Interação com o Usuário (`alert`, `prompt`)
 * Manipulação de Strings
@@ -30,8 +30,8 @@ Para que vocês entendam como o jogo é construído em partes, dividimos o códi
 * **Principais conceitos:** `const`, `let`, `alert()`, `String.repeat()`.
 
 ### **Módulo 2: Loop Principal do Jogo e Obtenção do Chute**
-* **O que faz:** Controla o fluxo das tentativas do jogador. A cada nova tentativa, ele exibe o status atual do jogo e pede que o jogador digite uma letra ou a palavra completa. [cite_start]É onde a estrutura de repetição `for` principal atua. [cite: 3, 9, 12, 15]
-* [cite_start]**Principais conceitos:** `for` (inicialização, condição, atualização)[cite: 22, 25, 27, 30], `prompt()`, `break`, `continue`, `toLowerCase()`, `trim()`.
+* **O que faz:** Controla o fluxo das tentativas do jogador. A cada nova tentativa, ele exibe o status atual do jogo e pede que o jogador digite uma letra ou a palavra completa. É onde a estrutura de repetição `for` principal atua.
+* **Principais conceitos:** `for` (inicialização, condição, atualização), `prompt()`, `break`, `continue`, `toLowerCase()`, `trim()`.
 
 ### **Módulo 3: Lógica de Verificação do Chute**
 * **O que faz:** É o "cérebro" do jogo. Ele verifica se o chute do jogador está correto (seja a palavra completa ou uma letra). Se for uma letra, ele percorre a palavra secreta (usando outro `for` loop aninhado) para revelar as letras corretas e dá feedback ao jogador.

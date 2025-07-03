@@ -12,7 +12,7 @@ Bem-vindos ao nosso projeto colaborativo de programação! Vamos construir um si
 
 ## Módulos e Grupos:
 
-### **Grupo 1: Módulo de Definição e Entrada de Preços**
+### **Grupo 1: Módulo de Definição e Entrada de Preços** - Concluído ✅
 **Arquivo para trabalhar:** `grupo1_modulo1.js`
 **Objetivo:** Responsável por solicitar e armazenar os preços dos itens do menu no início do programa.
 **Tarefas:**
@@ -30,7 +30,7 @@ Bem-vindos ao nosso projeto colaborativo de programação! Vamos construir um si
 - Pergunte o nome do cliente usando `prompt()` e armazene em uma variável `let nomeCliente`.
 - Crie a estrutura do loop `while` que controlará o menu de pedidos (lembre-se que ele deve continuar enquanto `opcaoCliente` não for `0`).
 
-### **Grupo 3: Módulo de Lógica do Menu e Switch-Case**
+### **Grupo 3: Módulo de Lógica do Menu e Switch-Case** - Concluído ✅
 **Arquivo para trabalhar:** `grupo3_modulo3.js`
 **Objetivo:** Implementar a lógica de seleção de itens e atualização do pedido.
 **Tarefas:**
@@ -44,7 +44,7 @@ Bem-vindos ao nosso projeto colaborativo de programação! Vamos construir um si
 - No `case 0`, mostre um `alert("Pedido Encerrado!");`.
 - Adicione um `default` para tratar opções inválidas.
 
-### **Grupo 4: Módulo de Finalização e Exibição do Pedido**
+### **Grupo 4: Módulo de Finalização e Exibição do Pedido** - Concluído ✅
 **Arquivo para trabalhar:** `grupo4_modulo4.js`
 **Objetivo:** Mostrar o resumo do pedido ao cliente no final.
 **Tarefas:**
